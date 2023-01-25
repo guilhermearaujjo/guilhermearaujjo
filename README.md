@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Guilherme Araujo
+## Bem-vindo(a) ao perfil de Guilherme Araujo
 
 </div>
 <div style="display: inline_block"><br>
