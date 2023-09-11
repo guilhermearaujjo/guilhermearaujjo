@@ -14,11 +14,11 @@
 <div> 
   
   <a target="_blank" href="https://instagram.com/guilhermearaujjo"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a target="_blank" href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+ <a target="_blank" href="https://discord.com/channels/@guilhermearaujjo"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a target="_blank" href = "mailto:guilhermearaujosr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/guilhermearaujosr/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a target="_blank" href="https://www.linkedin.com/in/guilhermearaujjo/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  
-<!--   ![Snake animation](https://github.com/guilhermearaujjo/guilhermearaujjo/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/guilhermearaujjo/guilhermearaujjo/blob/output/github-contribution-grid-snake.svg) 
 
 </div>
 
